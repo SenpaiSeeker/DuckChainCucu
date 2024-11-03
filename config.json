@@ -1,5 +1,5 @@
 {
-    "use_proxy": true,
+    "use_proxy": false,
     "quack_amount": 1,
     "quack_delay": 0.2,
     "account_delay": 2,
